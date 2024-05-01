@@ -1,0 +1,7 @@
+sudo apt-get install sqlite3
+aiocron==1.8
+aiogram==2.23.1
+beautifulsoup4==4.12.3
+config==0.5.1
+emoji==2.11.0
+requests==2.31.0
