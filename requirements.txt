@@ -1,4 +1,3 @@
-sudo apt-get install sqlite3
 aiocron==1.8
 aiogram==2.23.1
 beautifulsoup4==4.12.3
