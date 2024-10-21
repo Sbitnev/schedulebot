@@ -5,6 +5,7 @@
 
 Работа выполнена в рамках ВКР.
 
+[Демонстрация работы](https://www.youtube.com/watch?v=TRZI-ajt9u0&ab_channel=AleksandrSbitnev)
 
 # Руководство
 ## Требования
